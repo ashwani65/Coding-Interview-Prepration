@@ -27,7 +27,7 @@ unordered_map<int,int>um;
 it is build on the top of hash-table
 so find(),insert(),delete() takes O(1) time in average case,O(n) in worst case(rare)
 
-isme elements ka order different aa skta h kyounki wo hash-table se bna h unlike normal
-map jo ki BST se bna h jo order ka dhayan rakhta h
+In unordered_map order of elements can be different because it has been  build on the top of Hash-table unlike Normal Map which
+is Built on the top of BST .
 
 */
