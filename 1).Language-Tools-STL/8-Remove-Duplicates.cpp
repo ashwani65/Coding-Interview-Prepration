@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+//Author: Ashwani Singh
 #include<iostream>
 #include<vector>
 #include<set>
