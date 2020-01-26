@@ -1,4 +1,4 @@
-//this algorithm is for finding max subarray(Continous) sum
+//https://leetcode.com/problems/maximum-subarray/
 #include <iostream>
 using namespace std;
 int kadane(int *arr,int n)
