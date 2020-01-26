@@ -3,7 +3,7 @@
 #include <algorithm>
 #include <vector>
 #include <set>
-#define done_by_heart ios_base::sync_with stdio(false);
+#define ashwani ios_base::sync_with stdio(false);
 // typedef push_back() pb;
 using namespace std;
 
@@ -33,8 +33,8 @@ vector<int> removeusingsort(vector <int> input1){
 
 int main()
 {
-	// done_by_heart;
-	int n;cin>>n;
+    ashwani;
+    int n;cin>>n;
     vector<int >A(n),B,C;
     for (int i = 0; i < n; i++)
     {
