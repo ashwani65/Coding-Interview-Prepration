@@ -1,4 +1,5 @@
-//Max-Product-Subarrary  O(n)
+//https://leetcode.com/problems/maximum-product-subarray/
+//author:ashwani singh
 #include<bits/stdc++.h>
 #define rep(i,n) for(int i=0;i<(n);i++)
 using namespace std;
